@@ -45,7 +45,7 @@ blinker==1.6.2
     # via elastic-apm
 boto3==1.26.100
     # via -r requirements.in
-botocore==1.29.111
+botocore==1.29.112
     # via
     #   -r requirements.in
     #   boto3
