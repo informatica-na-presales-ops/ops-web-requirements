@@ -41,7 +41,7 @@ azure-storage-blob==12.15.0
     # via azure-storage-file-datalake
 azure-storage-file-datalake==12.10.1
     # via -r requirements.in
-blinker==1.5
+blinker==1.6.2
     # via elastic-apm
 boto3==1.26.100
     # via -r requirements.in
