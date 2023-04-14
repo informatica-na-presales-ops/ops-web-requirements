@@ -42,7 +42,7 @@ azure-storage-blob==12.16.0
 azure-storage-file-datalake==12.11.0
     # via -r requirements.in
 blinker==1.6.2
-    # via elastic-apm
+    # via -r requirements.in
 boto3==1.26.112
     # via -r requirements.in
 botocore==1.29.112
@@ -69,7 +69,7 @@ cryptography==40.0.1
     #   azure-storage-blob
     #   msal
     #   pyjwt
-elastic-apm[flask]==6.15.1
+elastic-apm==6.15.1
     # via -r requirements.in
 flask==2.2.3
     # via -r requirements.in
@@ -111,6 +111,7 @@ idna==3.4
     # via requests
 isodate==0.6.1
     # via
+    #   azure-mgmt-network
     #   azure-storage-blob
     #   azure-storage-file-datalake
     #   msrest
@@ -139,7 +140,6 @@ msal-extensions==1.0.0
 msrest==0.7.1
     # via
     #   azure-mgmt-compute
-    #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
 notch==2022.1
