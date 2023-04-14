@@ -43,7 +43,7 @@ azure-storage-file-datalake==12.11.0
     # via -r requirements.in
 blinker==1.6.2
     # via -r requirements.in
-boto3==1.26.112
+boto3==1.26.114
     # via -r requirements.in
 botocore==1.29.112
     # via
