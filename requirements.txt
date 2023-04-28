@@ -42,7 +42,9 @@ azure-storage-blob==12.16.0
 azure-storage-file-datalake==12.11.0
     # via -r requirements.in
 blinker==1.6.2
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   flask
 boto3==1.26.122
     # via -r requirements.in
 botocore==1.29.122
@@ -71,7 +73,7 @@ cryptography==40.0.2
     #   pyjwt
 elastic-apm==6.15.1
     # via -r requirements.in
-flask==2.2.3
+flask==2.3.1
     # via -r requirements.in
 fort==1.2.0
     # via -r requirements.in
@@ -232,7 +234,7 @@ urllib3==1.26.15
     #   requests
 waitress==2.1.2
     # via -r requirements.in
-werkzeug==2.2.3
+werkzeug==2.3.1
     # via
     #   -r requirements.in
     #   flask
