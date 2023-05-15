@@ -221,7 +221,7 @@ typing-extensions==4.5.0
     #   azure-storage-file-datalake
 tzdata==2023.3
     # via pytz-deprecation-shim
-tzlocal==4.3
+tzlocal==5.0.1
     # via apscheduler
 unidecode==1.3.6
     # via -r requirements.in
