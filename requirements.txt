@@ -84,7 +84,7 @@ google-api-core==2.11.0
     #   google-cloud-storage
 google-api-python-client==2.86.0
     # via -r requirements.in
-google-auth==2.18.0
+google-auth==2.18.1
     # via
     #   -r requirements.in
     #   google-api-core
@@ -185,7 +185,7 @@ pytz==2023.3
     # via apscheduler
 pytzdata==2020.1
     # via pendulum
-requests==2.30.0
+requests==2.31.0
     # via
     #   -r requirements.in
     #   azure-core
