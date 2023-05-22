@@ -185,7 +185,7 @@ pytz==2023.3
     # via apscheduler
 pytzdata==2020.1
     # via pendulum
-requests==2.30.0
+requests==2.31.0
     # via
     #   -r requirements.in
     #   azure-core
