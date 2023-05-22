@@ -45,9 +45,9 @@ blinker==1.6.2
     # via
     #   -r requirements.in
     #   flask
-boto3==1.26.132
+boto3==1.26.137
     # via -r requirements.in
-botocore==1.29.132
+botocore==1.29.137
     # via
     #   -r requirements.in
     #   boto3
@@ -183,8 +183,6 @@ python-dateutil==2.8.2
     #   pendulum
 pytz==2023.3
     # via apscheduler
-pytz-deprecation-shim==0.1.0.post0
-    # via tzlocal
 pytzdata==2020.1
     # via pendulum
 requests==2.30.0
@@ -219,9 +217,7 @@ typing-extensions==4.5.0
     #   azure-core
     #   azure-storage-blob
     #   azure-storage-file-datalake
-tzdata==2023.3
-    # via pytz-deprecation-shim
-tzlocal==4.3
+tzlocal==5.0.1
     # via apscheduler
 unidecode==1.3.6
     # via -r requirements.in
