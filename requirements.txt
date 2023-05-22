@@ -239,7 +239,7 @@ whitenoise==6.4.0
     # via -r requirements.in
 wrapt==1.15.0
     # via elastic-apm
-xlsxwriter==3.1.0
+xlsxwriter==3.1.1
     # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
