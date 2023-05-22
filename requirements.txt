@@ -154,7 +154,7 @@ pendulum==2.1.2
     # via -r requirements.in
 portalocker==2.7.0
     # via msal-extensions
-protobuf==4.23.0
+protobuf==4.23.1
     # via
     #   google-api-core
     #   googleapis-common-protos
