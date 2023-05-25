@@ -23,7 +23,7 @@ azure-core==1.26.4
     #   msrest
 azure-identity==1.13.0
     # via -r requirements.in
-azure-mgmt-compute==29.1.0
+azure-mgmt-compute==30.0.0
     # via -r requirements.in
 azure-mgmt-core==1.4.0
     # via
@@ -113,6 +113,7 @@ idna==3.4
     # via requests
 isodate==0.6.1
     # via
+    #   azure-mgmt-compute
     #   azure-mgmt-network
     #   azure-storage-blob
     #   azure-storage-file-datalake
@@ -141,7 +142,6 @@ msal-extensions==1.0.0
     # via azure-identity
 msrest==0.7.1
     # via
-    #   azure-mgmt-compute
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
 notch==2022.1
