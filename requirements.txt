@@ -45,14 +45,14 @@ blinker==1.6.2
     # via
     #   -r requirements.in
     #   flask
-boto3==1.26.140
+boto3==1.26.145
     # via -r requirements.in
-botocore==1.29.140
+botocore==1.29.145
     # via
     #   -r requirements.in
     #   boto3
     #   s3transfer
-cachetools==5.3.0
+cachetools==5.3.1
     # via google-auth
 certifi==2023.5.7
     # via
@@ -84,7 +84,7 @@ google-api-core==2.11.0
     #   google-cloud-storage
 google-api-python-client==2.87.0
     # via -r requirements.in
-google-auth==2.18.1
+google-auth==2.19.1
     # via
     #   -r requirements.in
     #   google-api-core
@@ -154,7 +154,7 @@ pendulum==2.1.2
     # via -r requirements.in
 portalocker==2.7.0
     # via msal-extensions
-protobuf==4.23.1
+protobuf==4.23.2
     # via
     #   google-api-core
     #   googleapis-common-protos
