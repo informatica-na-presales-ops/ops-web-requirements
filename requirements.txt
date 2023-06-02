@@ -212,7 +212,7 @@ six==1.16.0
     #   isodate
     #   oauth2client
     #   python-dateutil
-typing-extensions==4.6.2
+typing-extensions==4.6.3
     # via
     #   azure-core
     #   azure-storage-blob
