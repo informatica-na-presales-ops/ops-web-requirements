@@ -14,7 +14,7 @@ azure-common==1.1.28
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-core==1.26.4
+azure-core==1.27.0
     # via
     #   azure-identity
     #   azure-mgmt-core
