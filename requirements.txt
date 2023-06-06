@@ -71,7 +71,7 @@ cryptography==41.0.1
     #   azure-storage-blob
     #   msal
     #   pyjwt
-elastic-apm==6.15.1
+elastic-apm==6.16.1
     # via -r requirements.in
 flask==2.3.2
     # via -r requirements.in
