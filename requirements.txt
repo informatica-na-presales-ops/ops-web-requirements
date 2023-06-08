@@ -233,7 +233,7 @@ urllib3==1.26.16
     #   requests
 waitress==2.1.2
     # via -r requirements.in
-werkzeug==2.3.4
+werkzeug==2.3.5
     # via
     #   -r requirements.in
     #   flask
