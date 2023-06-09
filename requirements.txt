@@ -45,9 +45,9 @@ blinker==1.6.2
     # via
     #   -r requirements.in
     #   flask
-boto3==1.26.148
+boto3==1.26.150
     # via -r requirements.in
-botocore==1.29.148
+botocore==1.29.150
     # via
     #   -r requirements.in
     #   boto3
@@ -233,7 +233,7 @@ urllib3==1.26.16
     #   requests
 waitress==2.1.2
     # via -r requirements.in
-werkzeug==2.3.4
+werkzeug==2.3.6
     # via
     #   -r requirements.in
     #   flask
