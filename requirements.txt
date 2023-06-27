@@ -79,7 +79,7 @@ flask==2.3.2
     # via -r requirements.in
 fort==1.2.0
     # via -r requirements.in
-google-api-core==2.11.0
+google-api-core==2.11.1
     # via
     #   google-api-python-client
     #   google-cloud-core
