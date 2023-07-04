@@ -73,7 +73,7 @@ cryptography==41.0.1
     #   pyjwt
 ecs-logging==2.0.2
     # via elastic-apm
-elastic-apm==6.16.2
+elastic-apm==6.17.0
     # via -r requirements.in
 flask==2.3.2
     # via -r requirements.in
