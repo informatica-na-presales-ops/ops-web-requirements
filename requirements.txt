@@ -173,7 +173,7 @@ pyasn1-modules==0.3.0
     #   oauth2client
 pycparser==2.21
     # via cffi
-pyjwt[crypto]==2.7.0
+pyjwt[crypto]==2.8.0
     # via
     #   -r requirements.in
     #   msal
