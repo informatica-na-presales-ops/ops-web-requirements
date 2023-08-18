@@ -71,7 +71,7 @@ cryptography==41.0.3
     #   azure-storage-blob
     #   msal
     #   pyjwt
-ecs-logging==2.0.2
+ecs-logging==2.1.0
     # via elastic-apm
 elastic-apm==6.18.0
     # via -r requirements.in
