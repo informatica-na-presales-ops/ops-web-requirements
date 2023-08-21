@@ -6,7 +6,7 @@
 #
 --extra-index-url https://alpine-wheels.github.io/index
 
-apscheduler==3.10.3
+apscheduler==3.10.4
     # via -r requirements.in
 azure-common==1.1.28
     # via
