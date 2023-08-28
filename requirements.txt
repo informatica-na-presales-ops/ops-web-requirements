@@ -33,7 +33,7 @@ azure-mgmt-core==1.4.0
     #   azure-mgmt-subscription
 azure-mgmt-network==24.0.0
     # via -r requirements.in
-azure-mgmt-storage==21.0.0
+azure-mgmt-storage==21.1.0
     # via -r requirements.in
 azure-mgmt-subscription==3.1.1
     # via -r requirements.in
@@ -117,6 +117,7 @@ isodate==0.6.1
     # via
     #   azure-mgmt-compute
     #   azure-mgmt-network
+    #   azure-mgmt-storage
     #   azure-storage-blob
     #   azure-storage-file-datalake
     #   msrest
@@ -143,9 +144,7 @@ msal==1.23.0
 msal-extensions==1.0.0
     # via azure-identity
 msrest==0.7.1
-    # via
-    #   azure-mgmt-storage
-    #   azure-mgmt-subscription
+    # via azure-mgmt-subscription
 notch==2022.1
     # via -r requirements.in
 oauth2client==4.1.3
