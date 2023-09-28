@@ -94,7 +94,7 @@ google-auth==2.22.0
     #   google-auth-httplib2
     #   google-cloud-core
     #   google-cloud-storage
-google-auth-httplib2==0.1.0
+google-auth-httplib2==0.1.1
     # via google-api-python-client
 google-cloud-core==2.3.3
     # via google-cloud-storage
@@ -208,7 +208,6 @@ six==1.16.0
     #   apscheduler
     #   azure-core
     #   google-auth
-    #   google-auth-httplib2
     #   isodate
     #   oauth2client
     #   python-dateutil
