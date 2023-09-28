@@ -86,7 +86,7 @@ google-api-core==2.11.1
     #   google-cloud-storage
 google-api-python-client==2.99.0
     # via -r requirements.in
-google-auth==2.22.0
+google-auth==2.23.0
     # via
     #   -r requirements.in
     #   google-api-core
@@ -207,7 +207,6 @@ six==1.16.0
     # via
     #   apscheduler
     #   azure-core
-    #   google-auth
     #   isodate
     #   oauth2client
     #   python-dateutil
