@@ -230,7 +230,7 @@ werkzeug==3.0.1
     #   flask
 whitenoise==6.6.0
     # via -r requirements.in
-wrapt==1.14.1
+wrapt==1.16.0
     # via elastic-apm
 xlsxwriter==3.1.9
     # via -r requirements.in
