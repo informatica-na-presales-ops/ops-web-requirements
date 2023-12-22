@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap": "5.3.2",
     "bootstrap-icons": "1.11.2",
-    "htmx.org": "1.9.9",
+    "htmx.org": "1.9.10",
     "remarkable": "2.0.1"
   }
 }
