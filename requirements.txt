@@ -84,7 +84,7 @@ google-api-core==2.16.0
     #   google-api-python-client
     #   google-cloud-core
     #   google-cloud-storage
-google-api-python-client==2.115.0
+google-api-python-client==2.116.0
     # via -r requirements.in
 google-auth==2.27.0
     # via
