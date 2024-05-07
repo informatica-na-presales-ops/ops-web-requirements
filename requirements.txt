@@ -42,9 +42,7 @@ azure-storage-blob==12.19.1
 azure-storage-file-datalake==12.14.0
     # via -r requirements.in
 blinker==1.7.0
-    # via
-    #   -r requirements.in
-    #   flask
+    # via flask
 boto3==1.34.74
     # via -r requirements.in
 botocore==1.34.74
@@ -113,7 +111,7 @@ httplib2==0.22.0
     #   google-api-python-client
     #   google-auth-httplib2
     #   oauth2client
-idna==3.6
+idna==3.7
     # via requests
 isodate==0.6.1
     # via
@@ -131,7 +129,7 @@ jmespath==1.0.1
     # via
     #   boto3
     #   botocore
-lxml==5.1.1
+lxml==5.2.1
     # via -r requirements.in
 markdown==3.6
     # via -r requirements.in
@@ -175,7 +173,7 @@ pyasn1-modules==0.4.0
     # via
     #   google-auth
     #   oauth2client
-pycparser==2.21
+pycparser==2.22
     # via cffi
 pyjwt[crypto]==2.8.0
     # via
