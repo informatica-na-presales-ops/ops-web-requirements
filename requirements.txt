@@ -157,7 +157,7 @@ portalocker==2.8.2
     # via msal-extensions
 proto-plus==1.23.0
     # via google-api-core
-protobuf==4.25.3
+protobuf==5.27.1
     # via
     #   google-api-core
     #   googleapis-common-protos
