@@ -155,7 +155,7 @@ oauthlib==3.2.2
     # via requests-oauthlib
 packaging==24.1
     # via msal-extensions
-portalocker==2.8.2
+portalocker==2.10.0
     # via msal-extensions
 proto-plus==1.23.0
     # via google-api-core
