@@ -21,7 +21,7 @@ azure-core==1.30.1
     #   azure-storage-blob
     #   azure-storage-file-datalake
     #   msrest
-azure-identity==1.16.0
+azure-identity==1.17.1
     # via -r requirements.in
 azure-mgmt-compute==31.0.0
     # via -r requirements.in
@@ -37,15 +37,15 @@ azure-mgmt-storage==21.1.0
     # via -r requirements.in
 azure-mgmt-subscription==3.1.1
     # via -r requirements.in
-azure-storage-blob==12.19.1
+azure-storage-blob==12.20.0
     # via azure-storage-file-datalake
-azure-storage-file-datalake==12.14.0
+azure-storage-file-datalake==12.15.0
     # via -r requirements.in
 blinker==1.8.2
     # via flask
-boto3==1.34.99
+boto3==1.34.135
     # via -r requirements.in
-botocore==1.34.99
+botocore==1.34.135
     # via
     #   -r requirements.in
     #   boto3
@@ -82,7 +82,7 @@ google-api-core==2.19.0
     #   google-api-python-client
     #   google-cloud-core
     #   google-cloud-storage
-google-api-python-client==2.127.0
+google-api-python-client==2.135.0
     # via -r requirements.in
 google-auth==2.29.0
     # via
@@ -111,6 +111,8 @@ httplib2==0.22.0
     #   google-api-python-client
     #   google-auth-httplib2
     #   oauth2client
+icalendar==5.0.13
+    # via -r requirements.in
 idna==3.7
     # via requests
 isodate==0.6.1
@@ -182,10 +184,14 @@ pyjwt[crypto]==2.8.0
 pyparsing==3.1.2
     # via httplib2
 python-dateutil==2.9.0.post0
-    # via botocore
+    # via
+    #   botocore
+    #   icalendar
 pytz==2024.1
-    # via apscheduler
-requests==2.31.0
+    # via
+    #   apscheduler
+    #   icalendar
+requests==2.32.3
     # via
     #   -r requirements.in
     #   azure-core
@@ -212,6 +218,7 @@ six==1.16.0
 typing-extensions==4.11.0
     # via
     #   azure-core
+    #   azure-identity
     #   azure-storage-blob
     #   azure-storage-file-datalake
 tzlocal==5.2
@@ -220,7 +227,7 @@ unidecode==1.3.8
     # via -r requirements.in
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==2.2.1
+urllib3==2.2.2
     # via
     #   botocore
     #   elastic-apm
