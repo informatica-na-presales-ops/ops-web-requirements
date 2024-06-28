@@ -215,7 +215,7 @@ six==1.16.0
     #   isodate
     #   oauth2client
     #   python-dateutil
-typing-extensions==4.11.0
+typing-extensions==4.12.2
     # via
     #   azure-core
     #   azure-identity
