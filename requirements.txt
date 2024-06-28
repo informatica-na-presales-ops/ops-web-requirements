@@ -157,7 +157,7 @@ packaging==24.1
     # via msal-extensions
 portalocker==2.8.2
     # via msal-extensions
-proto-plus==1.23.0
+proto-plus==1.24.0
     # via google-api-core
 protobuf==4.25.3
     # via
