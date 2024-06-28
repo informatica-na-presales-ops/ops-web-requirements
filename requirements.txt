@@ -157,7 +157,7 @@ portalocker==2.10.0
     # via msal-extensions
 proto-plus==1.24.0
     # via google-api-core
-protobuf==4.25.3
+protobuf==5.27.2
     # via
     #   google-api-core
     #   googleapis-common-protos
@@ -238,7 +238,7 @@ werkzeug==3.0.3
     #   flask
 whitenoise==6.7.0
     # via -r requirements.in
-wrapt==1.14.1
+wrapt==1.16.0
     # via elastic-apm
 xlsxwriter==3.2.0
     # via -r requirements.in
