@@ -31,7 +31,7 @@ azure-mgmt-core==1.4.0
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-mgmt-network==25.3.0
+azure-mgmt-network==25.4.0
     # via -r requirements.in
 azure-mgmt-storage==21.1.0
     # via -r requirements.in
