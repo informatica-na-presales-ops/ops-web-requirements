@@ -63,7 +63,7 @@ charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via flask
-cryptography==42.0.7
+cryptography==42.0.8
     # via
     #   azure-identity
     #   azure-storage-blob
@@ -155,7 +155,7 @@ oauthlib==3.2.2
     # via requests-oauthlib
 packaging==24.1
     # via msal-extensions
-portalocker==2.8.2
+portalocker==2.10.0
     # via msal-extensions
 proto-plus==1.23.0
     # via google-api-core
@@ -215,7 +215,7 @@ six==1.16.0
     #   isodate
     #   oauth2client
     #   python-dateutil
-typing-extensions==4.11.0
+typing-extensions==4.12.2
     # via
     #   azure-core
     #   azure-identity
