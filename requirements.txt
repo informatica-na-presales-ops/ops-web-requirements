@@ -37,7 +37,7 @@ azure-mgmt-storage==21.2.1
     # via -r requirements.in
 azure-mgmt-subscription==3.1.1
     # via -r requirements.in
-azure-storage-blob==12.20.0
+azure-storage-blob==12.21.0
     # via azure-storage-file-datalake
 azure-storage-file-datalake==12.15.0
     # via -r requirements.in
