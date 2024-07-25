@@ -23,7 +23,7 @@ azure-core==1.30.2
     #   msrest
 azure-identity==1.17.1
     # via -r requirements.in
-azure-mgmt-compute==31.0.0
+azure-mgmt-compute==32.0.0
     # via -r requirements.in
 azure-mgmt-core==1.4.0
     # via
@@ -217,6 +217,7 @@ typing-extensions==4.12.2
     # via
     #   azure-core
     #   azure-identity
+    #   azure-mgmt-compute
     #   azure-storage-blob
     #   azure-storage-file-datalake
 tzlocal==5.2
