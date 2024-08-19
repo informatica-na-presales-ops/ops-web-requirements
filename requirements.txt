@@ -50,7 +50,7 @@ botocore==1.34.157
     #   -r requirements.in
     #   boto3
     #   s3transfer
-cachetools==5.4.0
+cachetools==5.5.0
     # via google-auth
 certifi==2024.7.4
     # via
