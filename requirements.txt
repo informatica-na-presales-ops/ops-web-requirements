@@ -113,7 +113,7 @@ httplib2==0.22.0
     #   oauth2client
 icalendar==5.0.13
     # via -r requirements.in
-idna==3.7
+idna==3.8
     # via requests
 isodate==0.6.1
     # via
