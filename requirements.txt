@@ -16,7 +16,7 @@ azure-common==1.1.28
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-core==1.30.2
+azure-core==1.31.0
     # via
     #   azure-ai-translation-document
     #   azure-identity
@@ -40,17 +40,17 @@ azure-mgmt-storage==21.2.1
     # via -r requirements.in
 azure-mgmt-subscription==3.1.1
     # via -r requirements.in
-azure-storage-blob==12.22.0
+azure-storage-blob==12.23.0
     # via
     #   -r requirements.in
     #   azure-storage-file-datalake
-azure-storage-file-datalake==12.16.0
+azure-storage-file-datalake==12.17.0
     # via -r requirements.in
 blinker==1.8.2
     # via flask
-boto3==1.35.11
+boto3==1.35.22
     # via -r requirements.in
-botocore==1.35.11
+botocore==1.35.22
     # via
     #   -r requirements.in
     #   boto3
@@ -62,7 +62,7 @@ certifi==2024.8.30
     #   elastic-apm
     #   msrest
     #   requests
-cffi==1.17.0
+cffi==1.17.1
     # via cryptography
 charset-normalizer==3.3.2
     # via requests
@@ -87,7 +87,7 @@ google-api-core==2.19.2
     #   google-api-python-client
     #   google-cloud-core
     #   google-cloud-storage
-google-api-python-client==2.143.0
+google-api-python-client==2.146.0
     # via -r requirements.in
 google-auth==2.34.0
     # via
@@ -118,7 +118,7 @@ httplib2==0.22.0
     #   oauth2client
 icalendar==5.0.13
     # via -r requirements.in
-idna==3.8
+idna==3.10
     # via requests
 isodate==0.6.1
     # via
@@ -144,7 +144,7 @@ markupsafe==2.1.5
     # via
     #   jinja2
     #   werkzeug
-msal==1.30.0
+msal==1.31.0
     # via
     #   azure-identity
     #   msal-extensions
@@ -164,19 +164,19 @@ portalocker==2.10.1
     # via msal-extensions
 proto-plus==1.24.0
     # via google-api-core
-protobuf==5.28.0
+protobuf==5.28.2
     # via
     #   google-api-core
     #   googleapis-common-protos
     #   proto-plus
 psycopg2==2.9.9
     # via -r requirements.in
-pyasn1==0.6.0
+pyasn1==0.6.1
     # via
     #   oauth2client
     #   pyasn1-modules
     #   rsa
-pyasn1-modules==0.4.0
+pyasn1-modules==0.4.1
     # via
     #   google-auth
     #   oauth2client
@@ -192,7 +192,7 @@ python-dateutil==2.9.0.post0
     # via
     #   botocore
     #   icalendar
-pytz==2024.1
+pytz==2024.2
     # via
     #   apscheduler
     #   icalendar
@@ -233,7 +233,7 @@ unidecode==1.3.8
     # via -r requirements.in
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==2.2.2
+urllib3==2.2.3
     # via
     #   botocore
     #   elastic-apm
