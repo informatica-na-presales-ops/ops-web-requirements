@@ -1,11 +1,13 @@
 --extra-index-url https://alpine-wheels.github.io/index
 
 apscheduler
+azure-ai-translation-document
 azure-identity
 azure-mgmt-compute
 azure-mgmt-network
 azure-mgmt-storage
 azure-mgmt-subscription
+azure-storage-blob
 azure-storage-file-datalake
 boto3
 botocore
@@ -15,6 +17,7 @@ fort
 google-api-python-client
 google-auth
 google-cloud-storage
+holidays
 icalendar
 lxml
 markdown
