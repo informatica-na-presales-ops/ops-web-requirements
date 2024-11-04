@@ -16,7 +16,7 @@ azure-common==1.1.28
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-core==1.31.0
+azure-core==1.32.0
     # via
     #   azure-ai-translation-document
     #   azure-identity
