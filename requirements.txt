@@ -16,7 +16,7 @@ azure-common==1.1.28
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-core==1.31.0
+azure-core==1.32.0
     # via
     #   azure-ai-translation-document
     #   azure-identity
@@ -28,13 +28,13 @@ azure-identity==1.19.0
     # via -r requirements.in
 azure-mgmt-compute==33.0.0
     # via -r requirements.in
-azure-mgmt-core==1.4.0
+azure-mgmt-core==1.5.0
     # via
     #   azure-mgmt-compute
     #   azure-mgmt-network
     #   azure-mgmt-storage
     #   azure-mgmt-subscription
-azure-mgmt-network==27.0.0
+azure-mgmt-network==28.0.0
     # via -r requirements.in
 azure-mgmt-storage==21.2.1
     # via -r requirements.in
@@ -48,9 +48,9 @@ azure-storage-file-datalake==12.17.0
     # via -r requirements.in
 blinker==1.8.2
     # via flask
-boto3==1.35.48
+boto3==1.35.54
     # via -r requirements.in
-botocore==1.35.48
+botocore==1.35.54
     # via
     #   -r requirements.in
     #   boto3
@@ -82,12 +82,12 @@ flask==3.0.3
     # via -r requirements.in
 fort==2024.2
     # via -r requirements.in
-google-api-core==2.21.0
+google-api-core==2.22.0
     # via
     #   google-api-python-client
     #   google-cloud-core
     #   google-cloud-storage
-google-api-python-client==2.149.0
+google-api-python-client==2.151.0
     # via -r requirements.in
 google-auth==2.35.0
     # via
@@ -111,7 +111,7 @@ google-resumable-media==2.7.2
     # via google-cloud-storage
 googleapis-common-protos==1.65.0
     # via google-api-core
-holidays==0.59
+holidays==0.60
     # via -r requirements.in
 httplib2==0.22.0
     # via
@@ -241,13 +241,13 @@ urllib3==2.2.3
     #   botocore
     #   elastic-apm
     #   requests
-waitress==3.0.0
+waitress==3.0.1
     # via -r requirements.in
-werkzeug==3.0.4
+werkzeug==3.1.2
     # via
     #   -r requirements.in
     #   flask
-whitenoise==6.7.0
+whitenoise==6.8.2
     # via -r requirements.in
 wrapt==1.16.0
     # via elastic-apm
