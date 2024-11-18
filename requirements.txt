@@ -46,7 +46,7 @@ azure-storage-blob==12.23.1
     #   azure-storage-file-datalake
 azure-storage-file-datalake==12.17.0
     # via -r requirements.in
-blinker==1.8.2
+blinker==1.9.0
     # via flask
 boto3==1.35.54
     # via -r requirements.in
@@ -78,7 +78,7 @@ ecs-logging==2.2.0
     # via elastic-apm
 elastic-apm==6.23.0
     # via -r requirements.in
-flask==3.0.3
+flask==3.1.0
     # via -r requirements.in
 fort==2024.2
     # via -r requirements.in
