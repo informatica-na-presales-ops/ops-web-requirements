@@ -241,7 +241,7 @@ urllib3==2.2.3
     #   botocore
     #   elastic-apm
     #   requests
-waitress==3.0.1
+waitress==3.0.2
     # via -r requirements.in
 werkzeug==3.1.2
     # via
