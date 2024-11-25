@@ -6,7 +6,7 @@
 #
 --extra-index-url https://alpine-wheels.github.io/index
 
-apscheduler==3.10.4
+apscheduler==3.11.0
     # via -r requirements.in
 azure-ai-translation-document==1.0.0
     # via -r requirements.in
@@ -195,8 +195,6 @@ python-dateutil==2.9.0.post0
     #   botocore
     #   holidays
     #   icalendar
-pytz==2024.2
-    # via apscheduler
 requests==2.32.3
     # via
     #   -r requirements.in
@@ -216,7 +214,6 @@ s3transfer==0.10.3
     # via boto3
 six==1.16.0
     # via
-    #   apscheduler
     #   azure-core
     #   oauth2client
     #   python-dateutil
