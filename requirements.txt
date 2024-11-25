@@ -118,7 +118,7 @@ httplib2==0.22.0
     #   google-api-python-client
     #   google-auth-httplib2
     #   oauth2client
-icalendar==6.0.1
+icalendar==6.1.0
     # via -r requirements.in
 idna==3.10
     # via requests
