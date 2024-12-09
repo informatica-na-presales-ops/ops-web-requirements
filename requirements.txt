@@ -214,7 +214,7 @@ rsa==4.9
     #   oauth2client
 s3transfer==0.10.3
     # via boto3
-six==1.16.0
+six==1.17.0
     # via
     #   apscheduler
     #   azure-core
