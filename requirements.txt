@@ -57,7 +57,7 @@ botocore==1.35.78
     #   s3transfer
 cachetools==5.5.0
     # via google-auth
-certifi==2024.8.30
+certifi==2024.12.14
     # via
     #   elastic-apm
     #   msrest
