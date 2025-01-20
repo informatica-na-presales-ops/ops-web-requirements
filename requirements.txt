@@ -26,7 +26,7 @@ azure-core==1.32.0
     #   msrest
 azure-identity==1.19.0
     # via -r requirements.in
-azure-mgmt-compute==33.1.0
+azure-mgmt-compute==34.0.0
     # via -r requirements.in
 azure-mgmt-core==1.5.0
     # via
