@@ -111,7 +111,7 @@ google-resumable-media==2.7.2
     # via google-cloud-storage
 googleapis-common-protos==1.66.0
     # via google-api-core
-holidays==0.63
+holidays==0.65
     # via -r requirements.in
 httplib2==0.22.0
     # via
