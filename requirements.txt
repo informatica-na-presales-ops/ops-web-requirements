@@ -225,7 +225,7 @@ typing-extensions==4.12.2
     #   azure-mgmt-network
     #   azure-storage-blob
     #   azure-storage-file-datalake
-tzdata==2024.2
+tzdata==2025.1
     # via icalendar
 tzlocal==5.2
     # via apscheduler
