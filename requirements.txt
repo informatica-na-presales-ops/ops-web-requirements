@@ -36,7 +36,7 @@ azure-mgmt-core==1.5.0
     #   azure-mgmt-subscription
 azure-mgmt-network==28.1.0
     # via -r requirements.in
-azure-mgmt-storage==21.2.1
+azure-mgmt-storage==22.0.0
     # via -r requirements.in
 azure-mgmt-subscription==3.1.1
     # via -r requirements.in
@@ -223,6 +223,7 @@ typing-extensions==4.12.2
     #   azure-identity
     #   azure-mgmt-compute
     #   azure-mgmt-network
+    #   azure-mgmt-storage
     #   azure-storage-blob
     #   azure-storage-file-datalake
 tzdata==2025.1
