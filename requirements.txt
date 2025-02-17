@@ -111,8 +111,6 @@ google-resumable-media==2.7.2
     # via google-cloud-storage
 googleapis-common-protos==1.66.0
     # via google-api-core
-holidays==0.63
-    # via -r requirements.in
 httplib2==0.22.0
     # via
     #   google-api-python-client
@@ -192,7 +190,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
     # via
     #   botocore
-    #   holidays
     #   icalendar
 requests==2.32.3
     # via
