@@ -45,7 +45,7 @@ jmespath==1.0.1
 lxml==5.3.1
 markdown==3.7
 markupsafe==3.0.2
-msal==1.31.1
+msal==1.32.0
 msal-extensions==1.2.0
 msrest==0.7.1
 notch==2023.1
