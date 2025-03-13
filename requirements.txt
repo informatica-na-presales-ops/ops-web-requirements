@@ -4,8 +4,6 @@
 #
 #    pip-compile
 #
---extra-index-url https://alpine-wheels.github.io/index
-
 apscheduler==3.11.0
     # via -r requirements.in
 azure-ai-translation-document==1.1.0
@@ -168,7 +166,7 @@ protobuf==5.29.3
     #   google-api-core
     #   googleapis-common-protos
     #   proto-plus
-psycopg2==2.9.10
+psycopg2-binary==2.9.10
     # via -r requirements.in
 pyasn1==0.6.1
     # via
