@@ -5,7 +5,7 @@ azure-ai-translation-document==1.1.0
 azure-common==1.1.28
 azure-core==1.32.0
 azure-identity==1.21.0
-azure-mgmt-compute==34.0.0
+azure-mgmt-compute==34.1.0
 azure-mgmt-core==1.5.0
 azure-mgmt-network==28.1.0
 azure-mgmt-storage==22.1.1
