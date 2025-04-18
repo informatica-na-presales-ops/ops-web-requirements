@@ -102,7 +102,7 @@ google-auth-httplib2==0.2.0
     # via google-api-python-client
 google-cloud-core==2.4.3
     # via google-cloud-storage
-google-cloud-storage==3.0.0
+google-cloud-storage==3.1.0
     # via ops-web
 google-crc32c==1.6.0
     # via
@@ -205,11 +205,11 @@ requests==2.32.3
     #   requests-oauthlib
 requests-oauthlib==2.0.0
     # via msrest
-rsa==4.9
+rsa==4.9.1
     # via
     #   google-auth
     #   oauth2client
-s3transfer==0.11.4
+s3transfer==0.11.5
     # via boto3
 six==1.17.0
     # via
