@@ -216,7 +216,7 @@ six==1.17.0
     #   azure-core
     #   oauth2client
     #   python-dateutil
-typing-extensions==4.12.2
+typing-extensions==4.13.2
     # via
     #   azure-ai-translation-document
     #   azure-core
