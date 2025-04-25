@@ -146,7 +146,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   werkzeug
-msal==1.32.0
+msal==1.32.3
     # via
     #   azure-identity
     #   msal-extensions
