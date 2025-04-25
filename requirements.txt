@@ -44,7 +44,7 @@ bcrypt==4.3.0
     # via paramiko
 blinker==1.9.0
     # via flask
-boto3==1.37.36
+boto3==1.38.3
     # via ops-web
 botocore==1.37.37
     # via
