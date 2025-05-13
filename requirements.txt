@@ -79,7 +79,7 @@ ecs-logging==2.2.0
     # via elastic-apm
 elastic-apm==6.23.0
     # via ops-web
-flask==3.1.0
+flask==3.1.1
     # via ops-web
 fort==2025.0
     # via ops-web
