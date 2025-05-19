@@ -18,7 +18,7 @@ azure-core==1.34.0
     #   azure-storage-blob
     #   azure-storage-file-datalake
     #   msrest
-azure-identity==1.22.0
+azure-identity==1.23.0
     # via ops-web
 azure-mgmt-compute==34.1.0
     # via ops-web
