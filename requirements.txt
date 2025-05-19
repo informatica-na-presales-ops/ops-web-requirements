@@ -117,7 +117,7 @@ httplib2==0.22.0
     #   google-api-python-client
     #   google-auth-httplib2
     #   oauth2client
-icalendar==6.2.0
+icalendar==6.3.0
     # via ops-web
 idna==3.10
     # via requests
